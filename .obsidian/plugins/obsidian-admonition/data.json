@@ -1,0 +1,127 @@
+{
+  "userAdmonitions": {
+    "dice": {
+      "type": "dice",
+      "color": "205, 152, 196",
+      "icon": {
+        "type": "rpg",
+        "name": "perspective-dice-random"
+      },
+      "command": false,
+      "title": "Dice Roll",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "feature": {
+      "type": "feature",
+      "color": "205, 186, 152",
+      "icon": {
+        "name": "newspaper",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "files": {
+      "type": "files",
+      "color": "205, 152, 165",
+      "icon": {
+        "type": "obsidian",
+        "name": "lucide-file-down"
+      },
+      "command": false,
+      "title": "Necessary Files",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "screenshot": {
+      "type": "screenshot",
+      "color": "205, 170, 152",
+      "icon": {
+        "type": "obsidian",
+        "name": "lucide-image"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "statblock": {
+      "type": "statblock",
+      "icon": {
+        "name": "dragon",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "99, 117, 210"
+    },
+    "flowchart": {
+      "type": "flowchart",
+      "icon": {
+        "name": "map",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": true,
+      "copy": false,
+      "color": "126, 48, 25"
+    },
+    "gallery": {
+      "type": "gallery",
+      "icon": {
+        "name": "image",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": true,
+      "copy": false,
+      "color": "202, 175, 55"
+    },
+    "readaloud": {
+      "type": "readaloud",
+      "icon": {
+        "name": "book-reader",
+        "type": "font-awesome"
+      },
+      "title": "Read Aloud",
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "9, 166, 223"
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "10.2.0",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": true
+  },
+  "icons": [
+    "octicons",
+    "rpg"
+  ],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": true,
+  "snippetPath": "custom-admonitions.c5d999"
+}

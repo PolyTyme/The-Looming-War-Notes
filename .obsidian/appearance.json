@@ -1,0 +1,24 @@
+{
+  "accentColor": "",
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "Fade_Header",
+    "HideProperties",
+    "custom-admonitions.c5d999",
+    "dnd5e-compendium",
+    "stylesheet",
+    "DungeonFont",
+    "CustomFont",
+    "custom_fonts",
+    "CoolWriting",
+    "FirstHeaderLetter"
+  ],
+  "translucency": false,
+  "showViewHeader": true,
+  "baseFontSizeAction": false,
+  "theme": "moonstone",
+  "textFontFamily": "Dungeon",
+  "interfaceFontFamily": "",
+  "baseFontSize": 22,
+  "monospaceFontFamily": "Inter"
+}
