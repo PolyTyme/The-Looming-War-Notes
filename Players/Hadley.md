@@ -1,8 +1,11 @@
+---
+share: true
+---
 "character headshot goes here as a header"
 
 # Introduction
  
- Resident of [[An Domhan]]
+ Resident of [[An Domhan|An Domhan]]
  > [!recite]- Things to Know
 > There are spoilers in this note marked in a  **_spoilers_** box.
 
@@ -12,9 +15,9 @@
 > ###### Stats
 > | Type |  Stat |
 > | ---- | ---- |
-> | **Age** | ? |
-> | **Race**| ? |
-> |**Expertise**| ?|
+> | **Age** | 23 |
+> | **Race**| Air Genasi |
+> |**Expertise**| utility, offensive spells |
 
 <span style="font-family: solbera_imitationregular; font-size:100">H</span>adley, "Basic Description of the character and where they are from"
 "Quick explanation of what made the character the way they are"
